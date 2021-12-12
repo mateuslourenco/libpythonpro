@@ -33,5 +33,5 @@ jobs:
     - name: Posting coverage in codecov
       env:
         super_secret: ${{ secrets.CODECOV_TOKEN }}
-        run: |
-          codecov
+      run: |
+        codecov
