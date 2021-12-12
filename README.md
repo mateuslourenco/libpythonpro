@@ -1,6 +1,6 @@
 # libpythonproubuntu
 ## Projeto para exemplificar construção de projetos Python no curso Pytools. Projeto refeito utilizando Ubuntu e GitHub Actions.
-##  Projeto original feito em Windows e com Travis CI: [libpythonpro](https://github.com/mateuslourenco/libpythonpro)
+##  Projeto original feito com Windows e Travis CI: [libpythonpro](https://github.com/mateuslourenco/libpythonpro)
 
 ### Nesse curso é ensinado como contribuir com projetos de código aberto.
 
