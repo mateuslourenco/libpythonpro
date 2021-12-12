@@ -28,3 +28,4 @@ Tópicos a serem abordados
 [![Python application](https://github.com/mateuslourenco/libpythonproubuntu/actions/workflows/python-app.yml/badge.svg)](https://github.com/mateuslourenco/libpythonproubuntu/actions/workflows/python-app.yml)
 [![Updates](https://pyup.io/repos/github/mateuslourenco/libpythonproubuntu/shield.svg)](https://pyup.io/repos/github/mateuslourenco/libpythonproubuntu/)
 [![Python 3](https://pyup.io/repos/github/mateuslourenco/libpythonproubuntu/python-3-shield.svg)](https://pyup.io/repos/github/mateuslourenco/libpythonproubuntu/)
+[![codecov](https://codecov.io/gh/mateuslourenco/libpythonproubuntu/branch/main/graph/badge.svg?token=59JRX6HC4X)](https://codecov.io/gh/mateuslourenco/libpythonproubuntu)
