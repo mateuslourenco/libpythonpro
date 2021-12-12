@@ -31,4 +31,7 @@ jobs:
       run: |
         pytest libpythonpro --cov=libpythonpro
     - name: Posting coverage in codecov
-      uses: codecov/codecov-action@v2
+      env:
+        super_secret: ${{ secrets.CODECOV_TOKEN }}
+        run:
+          codecov
