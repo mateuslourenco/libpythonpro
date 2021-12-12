@@ -23,3 +23,5 @@ Tópicos a serem abordados
  1. Git
  2. Virutalenv
  3. Pip
+
+[![Python application](https://github.com/mateuslourenco/libpythonproubuntu/actions/workflows/python-app.yml/badge.svg)](https://github.com/mateuslourenco/libpythonproubuntu/actions/workflows/python-app.yml)
