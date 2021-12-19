@@ -30,7 +30,7 @@ jobs:
         pipenv run flake8 .
     - name: Tests with pytest and coverage
       run: |
-        pipenv rum pytest libpythonpro --cov=libpythonpro
+        pipenv run pytest libpythonpro --cov=libpythonpro
     - name: Posting coverage in codecov
       env:
         super_secret: ${{ secrets.CODECOV_TOKEN }}
